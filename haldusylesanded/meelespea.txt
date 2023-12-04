@@ -1,0 +1,4 @@
+###
+et kasutada powershelli effektiivselt, on sul vaja installeerida gitbash, millega sa saad repposse pushida
+kui mingi pask on, võta repo "CODE" lahti ja clonei see endale arvutisse
+###
